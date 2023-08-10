@@ -13,7 +13,7 @@ import {
 
 export const greetings: GreetingsType = {
   name: 'Linus Ngwee',
-  title: "Hi all, I'm Lincom",
+  title: "Hi all, I'm Linus",
   description:
     "Experienced Fullstack Developer skilled in crafting dynamic web applications using technologies such as Node.js, Next.js, and Tailwind CSS. Proficient in GraphQL and MongoDB for efficient data management, with a strong background in PHP and MySQL. Passionate about building Progressive Web Apps (PWAs) and familiar with Strapi CMS for content management. Equipped with expertise in PostgreSQL and experienced in integrating AI capabilities through OpenAI. Excited to contribute to innovative projects and leverage LangChain for cutting-edge solutions. Blockchain development on Ethereum, Solidity, Web3.js, and Lisk.",
   resumeLink:
