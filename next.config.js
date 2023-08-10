@@ -1,6 +1,6 @@
 module.exports = {
   reactStrictMode: false,
   images: {
-    domains: ['avatars.githubusercontent.com'],
+    domains: ['https://linfolio.vercel.app/logo.png'],
   },
 };
